@@ -12,7 +12,7 @@ class Developer:
         self.name = "Harsh Pandav"
         self.title = "Full-Stack Developer"
         self.location = "Gujarat, India"
-        self.education = "Bachelor's Degree in Automobile Engineering"
+        self.education = "Master of science in computer application"
         self.language_programming = ["Python", "JavaScript"]
         self.skills = ["React.js", "React Native", "Node.js", "Tailwind CSS", , "GitHub Actions"]
         self.language_framework = ["Django", "FastAPI", "Flask","Next.js", "Expo"]
