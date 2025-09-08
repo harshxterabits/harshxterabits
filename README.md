@@ -9,7 +9,7 @@
 
 class Developer:
     def __init__(self):
-        self.name = "harsh Prajapati"
+        self.name = "harsh Pandav"
         self.title = "Full-Stack Developer"
         self.location = "Gujarat, India"
         self.education = "Bachelor's Degree in Automobile Engineering"
